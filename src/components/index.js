@@ -1,0 +1,7 @@
+export { default as Categories } from './categories/categories'
+export { default as ChannelAbout } from './channel-about/channel-about'
+export { default as Loader } from './loader/loader'
+export { default as Navbar } from './navbar/navbar'
+export { default as SearchBar } from './search-bar/search-bar'
+export { default as VideoItem } from './video-item/video-item'
+export { default as Videos } from './videos/videos'
